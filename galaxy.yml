@@ -45,5 +45,6 @@ tags:
     - infrastructure
 dependencies:
     "ansible.posix": ">=1.0.0"
+    "containers.podman": ">=1.7.0"
     "kubernetes.core": ">=2.2.0"
 ...
